@@ -1,0 +1,18 @@
+# Do not redistribute downloaded installers
+*.exe
+!README.md
+
+# Runtime artifacts and logs
+*.log
+*.csv
+Phoenix-install-results.*
+Phoenix-install-log.*
+*.tmp
+*.zip
+*.bak
+
+# Operating system/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
